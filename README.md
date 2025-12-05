@@ -2,8 +2,11 @@
 
 ## But requrired fixes to work with Polars 0.51.0 for Rust 
 
+### Fixes done with Claude Code (Sonnet 4.5)
 
 # Polars DataFrame describe() for Rust
+
+
 
 A Rust implementation of the `describe()` function for Polars DataFrames and LazyFrames, providing summary statistics similar to pandas/polars in Python.
 
