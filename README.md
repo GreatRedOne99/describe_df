@@ -1,6 +1,6 @@
 ### this is from this GIST - https://gist.github.com/nazq/f3fc6e6b15c895fb8b474013c4932d62 
 
-## But requrired fixes to work with Polars 0.51.0 for Rust 
+## But required fixes to work with Polars 0.51.0 for Rust 
 
 ### Fixes done with Claude Code (Sonnet 4.5)
 
