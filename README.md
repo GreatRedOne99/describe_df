@@ -3,6 +3,7 @@
 ## But required fixes to work with Polars 0.51.0 for Rust 
 
 ### Fixes done with Claude Code (Sonnet 4.5)
+> for some reasone Polars didn't implement 'describe' in Rust - https://docs.pola.rs/user-guide/concepts/data-types-and-structures/#describe 
 
 # Polars DataFrame describe() for Rust
 
